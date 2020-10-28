@@ -7,7 +7,7 @@
 
 | Time            |   Topic  | Instructor |
 |:------------------------:|:----------:|:--------:|
-|09:00 - 9:15 | [Introduction to Workshop](../lectures/Intro_to_workshop.pdf) | Sawyer |
+|09:00 - 9:15 | Introduction to Workshop | Sawyer |
 |09:15 - 9:30 | Bird's Eye View of BioConductor| Sawyer |
 |09:30 - 9:45 | Applications of BioConductor | Nur|
 |09:45 - 10:00 | Break | |
