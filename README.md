@@ -19,7 +19,7 @@ This repository has teaching materials for a 2-day Introduction to R and BioCond
 
 ### Lessons
 
-[Click here] for links to lessons and the suggested schedule.
+[Click here](https://sauuyer.github.io/bioconductor-training/schedule/) for links to lessons and the suggested schedule.
 
 ### Installation Requirements
 
