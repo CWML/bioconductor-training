@@ -32,7 +32,7 @@ Bioconductor provides R-based tools for comprehension and analysis of high-throu
 
 
 ***
-*This training is provided by the Bioinformatics and Data Services of [Yale University's Cushing/Whitney Medical Library](https://library.medicine.yale.edu/)
+*This training is provided by the Bioinformatics and Data Services of [Yale University's Cushing/Whitney Medical Library](https://library.medicine.yale.edu/)*
 
 *This content has been adapted from materials developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
 
