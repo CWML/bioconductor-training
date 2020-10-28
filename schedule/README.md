@@ -26,4 +26,3 @@
 |tbd | Deep dive into Bioconductor Tool 2: __________ | Nur |
 
 
-**Additional Materials:** [More useful commands in shell](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/more_bash.html)
