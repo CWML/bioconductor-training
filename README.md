@@ -2,7 +2,7 @@
 
 | Audience | Computational skills required | Duration |
 :----------|:----------|:----------|
-| Biologists | None | 2-day workshop (~ 13 hours of trainer-led time) |
+| Biologists | None | 2-day workshop (~ 8 hours of trainer-led time) |
 
 ### Description
 
@@ -12,36 +12,24 @@ This repository has teaching materials for a 2-day Introduction to R and BioCond
 
 ### Learning Objectives
 
-1.  Understand the basics of the programming language R, which is a foundational component of most BioConductor tools.
-2. Learn about Bioconductor 
-Understand the necessity for, and use of, the command line interface (bash) and HPC for analyzing high-throughput sequencing data.
-2.	Understand best practices for designing an RNA-seq experiment and analysis the resulting data.
+1. Understand the basics of the programming language R.
+2. Learn about BioConductor and the related BioConductor suite of tools.
+3. Practise breaking down BioConductor documentation and applying the tools against real data.
 
-Continue editing below ...............       .....................      .....................
 
 ### Lessons
 
-[Click here](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/schedule/) for links to lessons and the suggested schedule.
+[Click here] for links to lessons and the suggested schedule.
 
 ### Installation Requirements
 
 ***All:***
 
-* [FileZilla Client](https://filezilla-project.org/download.php?type=client) (make sure you get ‘FileZilla Client')
+* [Install the programming language R](http://lib.stat.cmu.edu/R/CRAN/) 
+* [Install RStudio](https://rstudio.com/products/rstudio/download/)(choose the free version of RStudio)
 
-***Mac users:***
 
-* Plain text editor like [Sublime text](http://www.sublimetext.com/) or similar
 
-***Windows users:***
-
-* [GitBash](https://git-scm.com/download/win)
-* Plain text editor like [Notepad++](http://notepad-plus-plus.org/) or similar
-
-### Dataset
-
-* Day 1 - [Introduction to Shell: Dataset](https://www.dropbox.com/s/3lua2h1oo18gbug/unix_lesson.tar.gz?dl=1)
-* Days 2 and 3 - RNA-seq analysis (coming soon)
 
 ***
 *These materials have been developed by members of the teaching team at the [Harvard Chan Bioinformatics Core (HBC)](http://bioinformatics.sph.harvard.edu/). These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*
