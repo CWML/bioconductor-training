@@ -17,7 +17,7 @@ Bioconductor provides R-based tools for comprehension and analysis of high-throu
 3. Practise breaking down Bioconductor documentation and applying the tools against real data.
 
 
-### Lessons
+### Lesson Schedule
 
 [Click here](https://sauuyer.github.io/bioconductor-training/schedule/) for links to lessons and the suggested schedule.
 
