@@ -1,4 +1,4 @@
-# Introduction to R and BioConductor
+# Introduction to R and Bioconductor
 
 | Audience | Computational skills required | Duration |
 :----------|:----------|:----------|
@@ -6,15 +6,15 @@
 
 ### Description
 
-Bioconductor provides R-based tools for comprehension and analysis of high-throughput genomic data. This repository contains teaching materials for a 2-day Introduction to R and BioConductor. This workshop focuses on teaching basic R and data literacy skills to enable the effective use of BioConductor tools. While there will be two indepth examples of Bioconductor tool demonstrations, participants will leave this workshop with the ability to know how to approach any Bioconductor tool. 
+Bioconductor provides R-based tools for comprehension and analysis of high-throughput genomic data. This repository contains teaching materials for a 2-day Introduction to R and Bioconductor. This workshop focuses on teaching basic R and data literacy skills to enable the effective use of Bioconductor tools. While there will be two indepth examples of Bioconductor tool demonstrations, participants will leave this workshop with the ability to know how to approach any Bioconductor tool. 
 
 > These materials were developed for a trainer-led workshop, but are also amenable to self-guided learning.
 
 ### Learning Objectives
 
 1. Understand the basics of the programming language R.
-2. Learn about BioConductor and the related BioConductor suite of tools.
-3. Practise breaking down BioConductor documentation and applying the tools against real data.
+2. Learn about Bioconductor and the related Bioconductor suite of tools.
+3. Practise breaking down Bioconductor documentation and applying the tools against real data.
 
 
 ### Lessons
