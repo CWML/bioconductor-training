@@ -5,6 +5,9 @@ duration: 50 minutes
 ---
 # Applications of Bioconductor
 
+[Return to main workshop landing page](https://sauuyer.github.io/bioconductor-training/)
+[Return to workshop schedule](https://sauuyer.github.io/bioconductor-training/schedule/)
+
 ## Learning Objectives:
 
 * Brief explanation about SAM file
