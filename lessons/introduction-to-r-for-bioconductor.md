@@ -4,6 +4,8 @@ author: Sawyer Newman
 duration: 1 hour and 45 minutes
 ---
 
+# Introduction to R for Bioconductor
+
 [Data management slides]: https://github.com/hbc/NGS-Data-Analysis-long-course/raw/Fall_2016/sessionI/slides/data_management.pdf
 [SRA]: http://www.ncbi.nlm.nih.gov/sra  "Sequence Read Archive"
 
