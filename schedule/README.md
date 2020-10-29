@@ -1,7 +1,7 @@
 
 # Workshop Schedule
 
-
+[Return to main workshop landing page](https://sauuyer.github.io/bioconductor-training/)
 
 ## Day 1
 
