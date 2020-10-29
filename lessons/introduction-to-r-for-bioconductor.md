@@ -1,8 +1,7 @@
 ---
-title: Data Management and Project Organization
-author: Mary Piper, Meeta Mistry, Michael Steinbaugh, Radhika Khetani
-date: Wednesday, September 20, 2017
-duration: 35
+title: Introduction to R for Bioconductor
+author: Sawyer Newman
+duration: 1 hour and 45 minutes
 ---
 
 [Data management slides]: https://github.com/hbc/NGS-Data-Analysis-long-course/raw/Fall_2016/sessionI/slides/data_management.pdf
