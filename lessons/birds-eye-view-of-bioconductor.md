@@ -4,6 +4,8 @@ author: "Sawyer newman"
 duration: 15 minutes
 ---
 
+#Bird's Eye View of Bioconductor
+
 ## Learning Objectives:
 
 * 
