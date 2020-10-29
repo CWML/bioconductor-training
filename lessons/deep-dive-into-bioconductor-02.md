@@ -1,9 +1,10 @@
 ---
-title: MultiQC
-authors: Radhika Khetani, Mary Piper
+title: "Deep Dive into Bioconductor 2: _______"
+authors: "Nur"
+duration: tbd
 ---
 
-Approximate time: 30 minutes
+## Learning objectives
 
 ## Documenting results and gathering QC metrics
 
