@@ -26,7 +26,7 @@ Bioconductor provides R-based tools for comprehension and analysis of high-throu
 ***All:***
 
 * [Install the programming language R](http://lib.stat.cmu.edu/R/CRAN/) 
-* [Install RStudio](https://rstudio.com/products/rstudio/download/)(choose the free version of RStudio)
+* [Install RStudio](https://rstudio.com/products/rstudio/download/) (choose the free version of RStudio)
 
 
 
