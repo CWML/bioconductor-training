@@ -6,6 +6,7 @@ duration: 15 minutes
 
 # Bird's Eye View of Bioconductor
 [Return to main workshop landing page](https://sauuyer.github.io/bioconductor-training/)
+
 [Return to workshop schedule](https://sauuyer.github.io/bioconductor-training/schedule/)
 
 ## Learning Objectives:
