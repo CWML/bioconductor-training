@@ -1,10 +1,8 @@
 ---
-title: "QC with STAR and Qualimap"
-author: "Meeta Mistry, Mary Piper"
-date: Monday September 10, 2018
+title: "Applications of Bioconductor"
+author: "Nur"
+duration: 50 minutes
 ---
-
-Approximate time: 50 minutes
 
 ## Learning Objectives:
 
