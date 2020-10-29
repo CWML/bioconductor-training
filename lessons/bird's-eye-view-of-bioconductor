@@ -1,14 +1,12 @@
 ---
-title: "Quality control using FASTQC"
-author: "Mary Piper, Radhika Khetani"
-date: Wednesday, September 20, 2017
-duration: 85 minutes
+title: "Bird's Eye View of Bioconductor"
+author: "Sawyer newman"
+duration: 15 minutes
 ---
 
 ## Learning Objectives:
 
-* Evaluate the quality of your NGS data using FastQC
-* Create and run a job submission script to automate quality assessment
+* 
 
 ## Quality Control of FASTQ files
 
