@@ -1,12 +1,9 @@
 ---
-title: "Quantification of transcript abundance using Salmon"
-author: "Mary Piper and Meeta Mistry"
-date: "Wednesday, February 27, 2019"
+title: "Deep Dive into Bioconductor Tool 1: _____"
+author: "Nur"
+duration: ?
 ---
 
-Contributors: Mary Piper and Meeta Mistry
-
-Approximate time: 1.25 hours
 
 ## Learning Objectives
 
