@@ -19,7 +19,7 @@ Bioconductor provides R-based tools for comprehension and analysis of high-throu
 
 ### Workshop Schedule
 
-[Click here](https://sauuyer.github.io/bioconductor-training/schedule/) for links to lessons and the suggested schedule.
+[Click here](https://cwml.github.io/bioconductor-training/schedule/) for links to lessons and the suggested schedule.
 
 ### Installation Requirements
 
