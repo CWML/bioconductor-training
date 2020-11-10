@@ -5,9 +5,9 @@ duration: 50 minutes
 ---
 # Applications of Bioconductor
 
-[Return to main workshop landing page](https://sauuyer.github.io/bioconductor-training/)
+[Return to main workshop landing page](https://cwml.github.io/bioconductor-training/)
 
-[Return to workshop schedule](https://sauuyer.github.io/bioconductor-training/schedule/)
+[Return to workshop schedule](https://cwml.github.io/bioconductor-training/schedule/)
 
 ## Learning Objectives:
 
