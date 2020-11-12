@@ -6,9 +6,9 @@
 
 ### Description
 
-Bioconductor provides R-based tools for comprehension and analysis of high-throughput genomic data. This repository contains teaching materials for a 2-day Introduction to R and Bioconductor. This workshop focuses on teaching basic R and data literacy skills to enable the effective use of Bioconductor tools. While there will be two indepth examples of Bioconductor tool demonstrations, participants will leave this workshop with the ability to know how to approach any Bioconductor tool. 
+Bioconductor is a website and community that provides (mostly) R-based tools for comprehension and analysis of high-throughput genomic data. The learning materials maintained in this repository focus basic R and data literacy skills that will help enable you to effectively learn about and use of Bioconductor tools. While there will be two indepth examples of Bioconductor tool demonstrations, participants will leave this workshop with the ability to know how to approach any Bioconductor tool. 
 
-> These materials were developed for a trainer-led workshop, but are also amenable to self-guided learning.
+> These materials were developed to support self-guided learning, but can also be used to support workshops.
 
 ### Learning Objectives
 
@@ -17,9 +17,9 @@ Bioconductor provides R-based tools for comprehension and analysis of high-throu
 3. Practise breaking down Bioconductor documentation and applying the tools against real data.
 
 
-### Workshop Schedule
+### Training Materials 
 
-[Click here](https://cwml.github.io/bioconductor-training/schedule/) for links to lessons and the suggested schedule.
+[Click here](https://cwml.github.io/bioconductor-training/schedule/) to view a table of contents.
 
 ### Installation Requirements
 
